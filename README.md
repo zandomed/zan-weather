@@ -1,5 +1,7 @@
 # ZanWeather Forecast App
 
+[![CI](https://github.com/zandomed/zan-weather/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/zandomed/zan-weather/actions/workflows/ci.yml)
+
 <!-- ![ZanWeather Forecast App](path/to/your/banner/image.png) -->
 
 ## Overview
