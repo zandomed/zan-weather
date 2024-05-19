@@ -1,36 +1,49 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# ZanWeather Forecast App
 
-## Getting Started
+<!-- ![ZanWeather Forecast App](path/to/your/banner/image.png) -->
 
-First, run the development server:
+## Overview
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+The ZanWeather Forecast App is a sleek and modern web application built with Next.js that provides current weather conditions and a 7-day forecast for any location. This project is part of my portfolio, showcasing my skills in frontend development, API integration, and responsive design.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Installation
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Follow these steps to run the project locally:
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+1. **Clone the repository**:
 
-## Learn More
+   ```bash
+   git clone https://github.com/zandomed/zan-weather.git
 
-To learn more about Next.js, take a look at the following resources:
+   ```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+2. **Move into the project directory**:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+   ```bash
+   cd zan-weather
+   ```
 
-## Deploy on Vercel
+3. **Install the dependencies**:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+   ```bash
+   bun install
+   ```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+4. **Start the development server**:
+   ```bash
+    bun run dev
+   ```
+
+## License
+
+This project is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](./LICENSE).
+
+**Note**: While this work is licensed under a non-commercial license, the author reserves the right to commercialize the code. For commercial licensing inquiries, please contact miguel@zandome.com.
+
+## Contact
+
+For any questions or feedback, please contact me at miguel@zandome.com.
+
+---
+
+Thank you for checking out my ZanWeather Forecast App! If you like this project, don't forget to give it a star on [GitHub](https://github.com/zandomed/zan-weather).
